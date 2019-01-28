@@ -1,0 +1,19 @@
+{
+  "name": "clickthewhat",
+  "version": "1.0.0",
+  "description": "Memory game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpacana/ClickTheWhat.git"
+  },
+  "author": "Bryan Pacana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpacana/ClickTheWhat/issues"
+  },
+  "homepage": "https://github.com/bpacana/ClickTheWhat#readme"
+}
